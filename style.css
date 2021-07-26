@@ -1,22 +1,23 @@
 header
 {
-background-image:url("Images/img2.jpg");
+
 width: 100%;
 height: 180px;
 align-content: center;
+
+background-position: center;
 }
 body
 {
-    background-color: rgb(226, 192, 148);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
+    background-color:lightgray;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     align-self: center;
 }
 h3
 {
-color: #5a2e02;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: darkslategrey;
+font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 text-shadow: 2px 2px 5px rgb(241, 180, 67);
 font-weight: bold;    
 }
@@ -25,7 +26,7 @@ footer
 background-color: black;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: 8pt;
-color: burlywood;
+color:grey;
 height: 50px;
 text-shadow: 1px px 3px rgb(241, 180, 67);
 }
@@ -70,4 +71,9 @@ text-align:right;
 {
 width:80px;
 height:30Px;
+}
+.img_header
+{
+width: 100%;
+height: 180px;
 }
